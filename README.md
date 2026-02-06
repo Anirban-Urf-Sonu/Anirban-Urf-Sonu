@@ -1,22 +1,15 @@
-# Networking_101
+# Hi, I'm Anirban 👋
 
+## About Me
+I am a cybersecurity student learning penetration testing. 
+I use GitHub to document my learning, notes, and practice as I study step by step.
 
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+## What I do here
+- Share learning notes
+- Track daily progress
+- Practice regularly
 
-
-Date - 
-
-- [x] Learning Networking
-- http,https
-- royter
-- osi model
-  
-   - application
-
-   - deta    
-
-
-
-
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+## Current focus
+- Understanding security basics
+- Learning through labs and notes
+- Building consistency
